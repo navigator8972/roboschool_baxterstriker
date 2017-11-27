@@ -1,2 +1,2 @@
 # roboschool_baxterstriker
-roboschool environment for baxter ball striking
+Roboschool environment for baxter ball striking
