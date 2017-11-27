@@ -1,0 +1,1 @@
+from gym_baxter_striker import RoboschoolBaxterStriker
