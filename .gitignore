@@ -66,7 +66,7 @@ bin/
 logs/
 save-vaedyn/
 save-vaedyn-old/
-il_models/
+il_models/*
 !il_models/gmm_realpos_bp.gmm
 !il_models/gmm_realpos_sp.gmm
 !il_models/gmm_vaeenc_bp.gmm
@@ -79,7 +79,7 @@ checkpoint_convert.py
 
 # unused resources
 models_outdoor
-mujoco_assets
+mujoco_assets/*
 !mujoco_assets/ground_plane.xml
 roboschool_multirendertest.py
 models_robot/baxter_description
